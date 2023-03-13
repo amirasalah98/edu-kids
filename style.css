@@ -130,6 +130,7 @@ transition: .7s;
 }
 .main-aside img{
     width: 8vh;
+    margin-bottom: 3vh;
 }
 .main-aside2{
     background-color: #fff;
